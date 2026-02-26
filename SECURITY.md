@@ -4,7 +4,7 @@ If you have found a security vulnerability in a Kausora Technologies project, pl
 
 ## Reporting a Vulnerability
 
-Email [contact@kausora.com](mailto:contact@kausora.com) with subject line `[Security] <short description>` and details of the vulnerability. Do not disclose it publicly until we have had a chance to address it.
+Email [contact@kausora.com](mailto:contact@kausora.com) with subject line `[Security] {short description}` and details of the vulnerability. Do not disclose it publicly until we have had a chance to address it.
 
 ## What to Include
 
