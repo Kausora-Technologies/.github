@@ -14,7 +14,7 @@ Thanks for contributing! Please follow the guidelines below.
 ### Internal contributors
 1. Clone the repository
 2. Create a branch from `main` using the naming convention below
-3. Make your changes and open a pull request
+3. Make your changes and open a pull request targeting `main`
 
 ---
 
