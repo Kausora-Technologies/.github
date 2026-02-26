@@ -1,4 +1,5 @@
-> **Security vulnerabilities:** If you have found a security vulnerability, please do not open a public issue. See [SECURITY.md](SECURITY.md) for responsible disclosure instructions.
+> [!WARNING]
+> If you have found a security vulnerability, please do not open a public issue. See [SECURITY.md](SECURITY.md) for responsible disclosure instructions.
 
 ---
 
