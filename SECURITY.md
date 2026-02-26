@@ -4,7 +4,7 @@ If you have found a security vulnerability in a Kausora Technologies project, pl
 
 ## Reporting a Vulnerability
 
-Email [contact@kausora.com](mailto:contact@kausora.com) with details of the vulnerability. Do not disclose it publicly until we have had a chance to address it.
+Email [contact@kausora.com](mailto:contact@kausora.com) with subject line `[Security] <short description>` and details of the vulnerability. Do not disclose it publicly until we have had a chance to address it.
 
 ## What to Include
 
@@ -17,7 +17,7 @@ To help us investigate quickly, please include:
 
 ## What to Expect
 
-- We will acknowledge receipt of your report
+- We will acknowledge receipt of your report, typically within a few business days
 - We will investigate and work toward a fix
 - We do not operate on a fixed disclosure timeline, but we take security reports seriously and will keep you informed of our progress
 - We will notify you when the issue has been resolved
