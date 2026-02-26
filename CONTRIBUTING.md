@@ -6,12 +6,12 @@ Thanks for contributing! Please follow the guidelines below.
 
 ## Getting Started
 
-**External contributors**
+### External contributors
 1. Fork the repository
-2. Create a branch from `main` using the naming convention below
-3. Make your changes and open a pull request
+2. Create a branch from `main` in your fork using the naming convention below
+3. Make your changes and open a pull request targeting the upstream `main`
 
-**Internal contributors**
+### Internal contributors
 1. Clone the repository
 2. Create a branch from `main` using the naming convention below
 3. Make your changes and open a pull request
@@ -25,9 +25,8 @@ Use the appropriate prefix followed by a short description:
 | Prefix | Use for |
 |---|---|
 | `feat/` | New features |
-| `fix/` | General fixes |
+| `fix/` | Bug fixes |
 | `hotfix/` | Urgent production fixes |
-| `bugfix/` | Non-urgent bug fixes |
 | `refactor/` | Code restructuring |
 | `chore/` | Maintenance, dependencies, config |
 | `docs/` | Documentation changes |
@@ -35,7 +34,7 @@ Use the appropriate prefix followed by a short description:
 **Examples:**
 ```
 feat/add-user-auth
-bugfix/fix-null-pointer
+fix/null-pointer
 docs/update-readme
 ```
 
@@ -45,12 +44,11 @@ docs/update-readme
 
 Format: `[TYPE] short description`
 
-**Types:** `FEAT`, `FIX`, `HOTFIX`, `BUGFIX`, `REFACTOR`, `CHORE`, `DOCS`
+**Types:** `FEAT`, `FIX`, `HOTFIX`, `REFACTOR`, `CHORE`, `DOCS`
 
 **Examples:**
 ```
 [FEAT] Add user authentication
-[BUGFIX] Fix null pointer in login flow
 [DOCS] Update contributing guidelines
 [CHORE] Bump dependencies
 ```
