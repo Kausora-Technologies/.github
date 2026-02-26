@@ -5,7 +5,7 @@ Org-wide community health defaults for Kausora Technologies.
 ## What's Included
 
 | File | Purpose |
-|---|---|
+| --- | --- |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Community standards and enforcement |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution workflow and conventions |
 | [`SECURITY.md`](SECURITY.md) | Responsible disclosure policy |
