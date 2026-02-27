@@ -10,7 +10,6 @@ Kausora Technologies is an AI, robotics, and automation company headquartered in
 - Digital twin & simulation
 - Cloud infrastructure
 - Custom software development
-- Odoo business management (ERP/CRM)
 
 ## Get in Touch
 
