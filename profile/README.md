@@ -13,5 +13,5 @@ Kausora Technologies is an AI, robotics, and automation company headquartered in
 
 ## Get in Touch
 
-- Website: [www.kausora.com](https://www.kausora.com)
+- Website: [https://www.kausora.com](https://www.kausora.com)
 - Email: [contact@kausora.com](mailto:contact@kausora.com)
