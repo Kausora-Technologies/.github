@@ -1,6 +1,6 @@
 # Kausora Technologies
 
-Kausora Technologies is an AI, robotics, and automation company headquartered in Abu Dhabi, UAE and Sheffield, UK. We help organisations scale faster and operate more efficiently through intelligent software, industrial systems, and data-driven solutions.
+Kausora Technologies is an AI, robotics, and automation company based in San Francisco, USA,  Abu Dhabi, UAE and Sheffield, UK. We help organisations scale faster and operate more efficiently through intelligent software, industrial systems, and data-driven solutions.
 
 ## What We Build
 
